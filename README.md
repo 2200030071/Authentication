@@ -15,6 +15,7 @@
 - Set up your Google OAuth Credentials
 - Level 6 - OAuth: Implement "Sign In with Google"
 
-
+## Database Used:
+- postgresql
 
 If you like to access the unzip folder.
